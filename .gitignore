@@ -121,8 +121,6 @@ $RECYCLE.BIN/
 *.lnk
 
 *.xml
-composer.json
-composer.lock
 # End of https://www.gitignore.io/api/vim,linux,macos,windows,sublimetext,visualstudiocode
 
 config_*.xml
